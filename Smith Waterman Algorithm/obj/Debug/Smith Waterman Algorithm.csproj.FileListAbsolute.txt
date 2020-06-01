@@ -1,0 +1,7 @@
+C:\Users\Durmuş\source\repos\Smith Waterman Algorithm\Smith Waterman Algorithm\bin\Debug\Smith Waterman Algorithm.exe.config
+C:\Users\Durmuş\source\repos\Smith Waterman Algorithm\Smith Waterman Algorithm\bin\Debug\Smith Waterman Algorithm.exe
+C:\Users\Durmuş\source\repos\Smith Waterman Algorithm\Smith Waterman Algorithm\bin\Debug\Smith Waterman Algorithm.pdb
+C:\Users\Durmuş\source\repos\Smith Waterman Algorithm\Smith Waterman Algorithm\obj\Debug\Smith Waterman Algorithm.csprojAssemblyReference.cache
+C:\Users\Durmuş\source\repos\Smith Waterman Algorithm\Smith Waterman Algorithm\obj\Debug\Smith Waterman Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Durmuş\source\repos\Smith Waterman Algorithm\Smith Waterman Algorithm\obj\Debug\Smith Waterman Algorithm.exe
+C:\Users\Durmuş\source\repos\Smith Waterman Algorithm\Smith Waterman Algorithm\obj\Debug\Smith Waterman Algorithm.pdb
